@@ -1,0 +1,22 @@
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    padding: 0;
+    background:#ffffff;
+    color: #869099;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1032;
+}
