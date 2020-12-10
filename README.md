@@ -1,23 +1,24 @@
 # Blog_Website
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+## Technologies Used in this Project.
+* [Python Web Framework Flask](https://flask-doc.readthedocs.io/en/latest/)
+* [HTML]
+* [CSS]
+* [Bootstrap]
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple build with Python web framework Flask.
 	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install library:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ mkdir Blog_website
+$ cd Blog_website
+$ touch app.py
+$ pip install flask
+$ pip install flask_sqlalchemy
+$ pip install flask_login
+$ pip install flash
+$ python app.py
 ```
