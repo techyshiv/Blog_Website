@@ -20,3 +20,6 @@ p{
     position: fixed;
     z-index: 1032;
 }
+.navbar-toggler{
+    position: relative;
+}
